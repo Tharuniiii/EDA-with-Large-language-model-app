@@ -8,6 +8,7 @@ This is an AI-powered Exploratory Data Analysis (EDA) web application built usin
 - 📈 **Seaborn & Matplotlib** – for visualizations
 - 🤖 **Ollama + Mistral** – for generating AI-based data insights
 - 🌐 **Gradio** – to create an interactive web interface
+  
 
 > Upload any CSV dataset and get an automated report with:
 > - Cleaned data
@@ -50,6 +51,7 @@ llm-eda-app/
 │ └── correlation_heatmap.png
 
 > 🧠 You can include public datasets in the `datasets/` folder so others can try the app easily.
+> You can also check list of LLM models to check which model you wanted to install and use
 
 ---
 
